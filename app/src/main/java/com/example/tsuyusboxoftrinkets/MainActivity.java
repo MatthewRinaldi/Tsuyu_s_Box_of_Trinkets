@@ -1,4 +1,4 @@
-package com.example.haphaestussboxoftrinkets;
+package com.example.tsuyusboxoftrinkets;
 
 import android.os.Bundle;
 

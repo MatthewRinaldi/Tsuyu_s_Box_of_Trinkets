@@ -2,12 +2,14 @@ plugins {
     alias(libs.plugins.android.application)
 }
 
+val bundleId = "com.example.tsuyusboxoftrinkets"
+
 android {
-    namespace = "com.example.haphaestussboxoftrinkets"
+    namespace = bundleId
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.haphaestussboxoftrinkets"
+        applicationId = bundleId
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Haphaestus's Box of Trinkets"
+rootProject.name = "Tsuyu's Box of Trinkets"
 include(":app")
